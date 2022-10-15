@@ -1,0 +1,10 @@
+Q1:_Any_of_the_folling_handles_the_data_into_information_? a)RAM b)DVD c)CPU d)CV C
+Q2:_The_smallest_piece_of_data_a_computer_can_work_with_as_a.....? a)GB b)Gbps c)bit d)byte C
+Q3:_The.....is_the_printed_circuit_board_that_contains_the_electrical_circuitry_for_the_computer. a)Power_supply b)Matherboard c)Drive_bays d)cooling_fan B
+Q4:_Hard_disks_record_data_on_concentric_bands_called.... a)sactors b)cluster c)trscks d)NTFS C
+Q5:_What's_on_the_Motherboard_? a)store b)monitor c)printer d)mouse A
+Q6:_Temporarily_stores_data_and_instructions_to_be_used_by_the_central_processing_unit? a)ROM b)RAM c)LAU d)cpu B
+Q7:_The_second_operation_of_the_information_processing_cycle,converts_data_into_information. a)processing b)Input c)storge d)output A
+Q8:_Which_of_the_folling_is_the_name_of_the_computer_inventor? a)Thomas_Edison b)Charles_Babbage c)John_peirce d)Nicolas_Joseph B
+Q9:_Which_is_used_to_turn_the_computer_on? a)Function_keys b)cache_memory c)Power_switch d)key_matrix C
+Q10:_THE_owner_of_TESLA_company a)billgates b)elonmusk c)jeffbezos d)donaldtrump B
